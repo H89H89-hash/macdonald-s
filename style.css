@@ -1,0 +1,24 @@
+div{
+    text-align: center;
+}
+body{
+    background-color: red;
+}
+.info{
+    background-color: red;
+    color: yellow;
+}
+.home{
+background-color: red;
+}
+a:hover {
+    
+display: block;
+  line-height: 2;
+  color: #fff;
+  text-decoration: none;
+  opacity: 0.8;
+  padding: 5px 15px;
+  position: relative;
+  transition: 0.3s ease-in-out;
+}
